@@ -44,11 +44,13 @@
             </td>
         </tr>
         <tr>
+            <td></td>
             <td>
-                <video src="" controls preload>
+                <video src="https://github.com/user-attachments/assets/4b1038c2-7339-448a-88ae-b8b5a6bf6149" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -129,6 +131,7 @@ BackgroundRemover leverages **U-Net-based convolutional neural networks** for ac
 - ✅ **Resource efficiency:** Low server usage
 
 ---
+
 
 ## 🔮 Future Improvements
 
