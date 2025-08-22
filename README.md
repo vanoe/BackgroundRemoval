@@ -4,6 +4,12 @@
 
 ---
 
+## 🗂 Scheme
+
+<img src="./img/img-10.png" alt="Scheme" />
+
+---
+
 ## 🔗 Samples & Screen Recordings
 
 > Click the thumbnail to view the recording.
